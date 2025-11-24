@@ -1,0 +1,14 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,gps_code,iata_code,local_code
+138,YSSY,large_airport,Sydney Kingsford Smith International Airport,-33.9461,151.1772,21,Oceania,AU,AU-NSW,Sydney,YSSY,SYD,
+139,YMML,large_airport,Melbourne International Airport,-37.6733,144.8433,434,Oceania,AU,AU-VIC,Melbourne,YMML,MEL,
+140,YBBN,large_airport,Brisbane International Airport,-27.3842,153.1175,13,Oceania,AU,AU-QLD,Brisbane,YBBN,BNE,
+141,YPPH,large_airport,Perth Airport,-31.9403,115.9669,67,Oceania,AU,AU-WA,Perth,YPPH,PER,
+142,YPAD,large_airport,Adelaide International Airport,-34.9450,138.5310,20,Oceania,AU,AU-SA,Adelaide,YPAD,ADL,
+143,NZAA,large_airport,Auckland International Airport,-37.0081,174.7917,23,Oceania,NZ,NZ-AUK,Auckland,NZAA,AKL,
+144,NZCH,large_airport,Christchurch International Airport,-43.4894,172.5322,123,Oceania,NZ,NZ-CAN,Christchurch,NZCH,CHC,
+145,NZWN,large_airport,Wellington International Airport,-41.3272,174.8053,41,Oceania,NZ,NZ-WGN,Wellington,NZWN,WLG,
+146,NFFN,large_airport,Nadi International Airport,-17.7554,177.4433,59,Oceania,FJ,FJ-W,Nadi,NFFN,NAN,
+147,AYPY,large_airport,Jacksons International Airport,-9.4438,147.2200,126,Oceania,PG,PG-NCD,Port Moresby,AYPY,POM,
+148,NWWW,large_airport,La Tontouta International Airport,-22.0146,166.2125,52,Oceania,NC,NC-S,Noumea,NWWW,NOU,
+149,NTAA,large_airport,Faa'a International Airport,-17.5537,-149.6069,5,Oceania,PF,PF-U-A,Papeete,NTAA,PPT
+

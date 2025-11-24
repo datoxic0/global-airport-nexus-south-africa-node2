@@ -1,0 +1,16 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,gps_code,iata_code,local_code
+124,SBGR,large_airport,Guarulhos - Governador André Franco Montoro International Airport,-23.4356,-46.4731,2459,South America,BR,BR-SP,São Paulo,SBGR,GRU,
+125,SBGL,large_airport,Rio Galeão – Tom Jobim International Airport,-22.8092,-43.2506,28,South America,BR,BR-RJ,Rio de Janeiro,SBGL,GIG,
+126,SBBR,large_airport,Presidente Juscelino Kubitschek International Airport,-15.8692,-47.9208,3497,South America,BR,BR-DF,Brasília,SBBR,BSB,
+127,SKBO,large_airport,El Dorado International Airport,4.7016,-74.1469,8361,South America,CO,CO-CUN,Bogotá,SKBO,BOG,
+128,SKRG,large_airport,José María Córdova International Airport,6.1645,-75.4232,7025,South America,CO,CO-ANT,Medellín,SKRG,MDE,
+129,SPJC,large_airport,Jorge Chávez International Airport,-12.0219,-77.1143,113,South America,PE,PE-CAL,Lima,SPJC,LIM,
+130,SCEL,large_airport,Comodoro Arturo Merino Benítez International Airport,-33.3930,-70.7858,1555,South America,CL,CL-RM,Santiago,SCEL,SCL,
+131,SAEZ,large_airport,Ministro Pistarini International Airport,-34.8222,-58.5358,67,South America,AR,AR-B,Buenos Aires,SAEZ,EZE,
+132,SABE,large_airport,Jorge Newbery Airpark,-34.5592,-58.4156,18,South America,AR,AR-C,Buenos Aires,SABE,AEP,
+133,SEQM,large_airport,Mariscal Sucre International Airport,-0.1292,-78.3575,7874,South America,EC,EC-P,Quito,SEQM,UIO,
+134,SUMU,large_airport,Carrasco International / General Césareo L. Berisso Airport,-34.8384,-56.0308,105,South America,UY,UY-CA,Montevideo,SUMU,MVD,
+135,SVMI,large_airport,Simón Bolívar International Airport,10.6012,-66.9913,235,South America,VE,VE-N,Caracas,SVMI,CCS,
+136,SLLP,large_airport,El Alto International Airport,-16.5133,-68.1923,13325,South America,BO,BO-L,La Paz,SLLP,LPB,
+137,SGAS,large_airport,Silvio Pettirossi International Airport,-25.2398,-57.5191,292,South America,PY,PY-11,Asunción,SGAS,ASU,
+

@@ -1,0 +1,6 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,gps_code,iata_code,local_code,address
+474,ZA-0021,heliport,Pretoria Central Heliport,0,0,0,Africa,ZA,ZA-U,Unknown,ZA-0021,HPR,,
+475,ZA-0334,small_airport,Potgietersrus Airport [CLOSED],0,0,0,Africa,ZA,ZA-U,Unknown,ZA-0334,,,
+476,FAPS,small_airport,Potchefstroom Airport,0,0,0,Africa,ZA,ZA-U,Unknown,FAPS,,,
+477,FAPT,small_airport,Posmasburg Soil Airport,0,0,0,Africa,ZA,ZA-U,Unknown,FAPT,,,
+

@@ -1,0 +1,22 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,gps_code,iata_code,local_code,address
+1,FAOR,Large International,O.R. Tambo International Airport,-26.1392,28.246,5558,Africa,ZA,Gauteng,Johannesburg,FAOR,JNB,,1 Jones Rd, Kempton Park, Johannesburg, 1632, South Africa
+2,FACT,Large International,Cape Town International Airport,-33.9648,18.6017,151,Africa,ZA,Western Cape,Cape Town,FACT,CPT,,Matroosfontein, Cape Town, 7490, South Africa
+3,FALE,Large International,King Shaka International Airport,-29.6144,31.1197,295,Africa,ZA,KwaZulu-Natal,Durban,FALE,DUR,,King Shaka Dr, La Mercy, 4407, South Africa
+200,FAGG,Regional,George Airport,-34.0056,22.3789,648,Africa,ZA,Western Cape,George,FAGG,GRJ,,R404, George, 6530, South Africa
+201,FALA,International,Lanseria International Airport,-25.9386,27.9261,4517,Africa,ZA,Gauteng,Johannesburg,FALA,HLA,,Airport Rd, Lanseria, 1748, South Africa
+202,FAPE,International,Chief Dawid Stuurman International Airport,-33.9849,25.6173,226,Africa,ZA,Eastern Cape,Gqeberha,FAPE,PLZ,,Allister Miller Dr, Walmer, Gqeberha, 6070, South Africa
+203,FABL,International,Bram Fischer International Airport,-29.0922,26.3025,4457,Africa,ZA,Free State,Bloemfontein,FABL,BFN,,Airport Rd, Bloemfontein, 9301, South Africa
+204,FAEL,Regional,East London Airport,-33.0356,27.8256,435,Africa,ZA,Eastern Cape,East London,FAEL,ELS,,Settlers Way, East London, 5201, South Africa
+205,FAKN,Regional,Kimberley Airport,-28.8028,24.7653,3950,Africa,ZA,Northern Cape,Kimberley,FAKN,KIM,,Oliver Road, Kimberley, 8300, South Africa
+206,FAUP,International,Upington International Airport,-28.4006,21.2603,2791,Africa,ZA,Northern Cape,Upington,FAUP,UTN,,Diedericks St, Upington, 8801, South Africa
+207,FAQM,International,Kruger Mpumalanga International Airport,-25.3832,31.0981,2829,Africa,ZA,Mpumalanga,Nelspruit,FAQM,MQP,,R538, White River, 1240, South Africa
+208,FAWB,General Aviation,Wonderboom Airport,-25.6539,28.2242,4095,Africa,ZA,Gauteng,Pretoria,FAWB,PRY,,Lintvelt Rd, Wonderboom, Pretoria, 0182, South Africa
+209,FAGC,General Aviation,Grand Central Airport,-25.9869,28.1425,5325,Africa,ZA,Gauteng,Midrand,FAGC,GCJ,,New Rd, Midrand, 1685, South Africa
+210,FAHO,Military/Civilian,Hoedspruit Air Force Base,-24.3617,31.0503,1738,Africa,ZA,Limpopo,Hoedspruit,FAHO,HDS,,Air Force Base, Hoedspruit, 1380, South Africa
+211,FAPB,Regional,Phalaborwa Airport,-23.9372,31.1556,1432,Africa,ZA,Limpopo,Phalaborwa,FAPB,PHW,,President Steyn St, Phalaborwa, 1390, South Africa
+212,FAPM,Regional,Pietermaritzburg Airport,-29.6492,30.3986,2423,Africa,ZA,KwaZulu-Natal,Pietermaritzburg,FAPM,PZB,,Oribi Rd, Bisley, Pietermaritzburg, 3201, South Africa
+213,FARB,Regional,Richards Bay Airport,-28.7419,32.0922,109,Africa,ZA,KwaZulu-Natal,Richards Bay,FARB,RCB,,Fish Eagle Flight, Richards Bay, 3900, South Africa
+214,FASZ,Regional,Skukuza Airport,-24.9614,31.5864,1020,Africa,ZA,Mpumalanga,Skukuza,FASZ,SZK,,Skukuza Rest Camp, Kruger National Park, 1350, South Africa
+215,FATP,General Aviation,New Tempe Airport,-29.0325,26.1586,4526,Africa,ZA,Free State,Bloemfontein,FATP,,,"Kenilworth Rd, Bloemfontein, 9301, South Africa"
+216,FAVR,Small,Vredendal Airport,-31.6422,18.5433,330,Africa,ZA,Western Cape,Vredendal,FAVR,VRE,,"R362, Vredendal, 8160, South Africa"
+
